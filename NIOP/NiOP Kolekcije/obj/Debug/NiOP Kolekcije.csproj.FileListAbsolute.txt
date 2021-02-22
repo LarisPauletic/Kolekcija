@@ -1,0 +1,20 @@
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\bin\Debug\NiOP Kolekcije.exe.config
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\bin\Debug\NiOP Kolekcije.exe
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\bin\Debug\NiOP Kolekcije.pdb
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\obj\Debug\NiOP_Kolekcije.Form1.resources
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\obj\Debug\NiOP_Kolekcije.Properties.Resources.resources
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.exe
+C:\Users\Laris\source\repos\NiOP Kolekcije\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.pdb
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\bin\Debug\NiOP Kolekcije.exe.config
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\bin\Debug\NiOP Kolekcije.exe
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\bin\Debug\NiOP Kolekcije.pdb
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.csprojAssemblyReference.cache
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\obj\Debug\NiOP_Kolekcije.Form1.resources
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\obj\Debug\NiOP_Kolekcije.Properties.Resources.resources
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.csproj.GenerateResource.cache
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.csproj.CoreCompileInputs.cache
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.exe
+C:\Users\Učenik11\Desktop\NIOP\NiOP Kolekcije\obj\Debug\NiOP Kolekcije.pdb
